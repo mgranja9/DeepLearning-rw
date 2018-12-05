@@ -1,8 +1,6 @@
 # Deep Learning Projects
 A list of popular github projects related to deep learning (ranked by stars).
 
-Last Update: 2016.08.09
-
 | Project Name| Stars | Description |
 | ------- | ------ | ------ |
 | [TensorFlow](https://github.com/tensorflow/tensorflow) | 29622 | Computation using data flow graphs for scalable machine learning.
